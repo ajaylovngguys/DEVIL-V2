@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 🤞{},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/advertautofilterbot'>ADVERT MEDIA BOT</a>, 
+    START_TXT = """Hello 🤞{},
+My Name, <a href='https://t.me/advertautofilterbot'>ADVERT MEDIA BOT</a>, 
 It's very easy just <a href='https://t.me/moviemasala_request'>CLICK ME</a> and type any Movies or Webseries name, that's it i provide your request.
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
